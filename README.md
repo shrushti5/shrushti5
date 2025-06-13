@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Shrushti - Backend & Data Engineer](./banner.png)
 👋 Hi there, I'm Shrushti!<br><br>💻 I love building real-world projects that solve real problems<br><br>⚙️ Passionate about backend development and system design<br><br>🚀 Currently learning Kafka, WebSockets, and machine learning<br><br>🔄 Always curious, always experimenting
 
 
